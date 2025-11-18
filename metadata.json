@@ -1,0 +1,5 @@
+{
+  "name": "LeadAnalyticsApp",
+  "description": "A client-side dashboard for analyzing marketing lead sources via CSV upload, featuring automatic classification and data visualization.",
+  "requestFramePermissions": []
+}
